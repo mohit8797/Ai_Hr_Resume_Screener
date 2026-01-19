@@ -1,0 +1,36 @@
+# Core backend framework
+fastapi
+uvicorn
+
+# LangChain core
+langchain
+langchain-community
+langchain-google-genai
+
+# LLM provider (choose one; OpenAI recommended)
+google-generativeai
+
+# Vector database for RAG
+faiss-cpu
+
+# PDF parsing
+pypdf
+
+# Text processing
+nltk
+tiktoken
+
+# Environment variable management
+python-dotenv
+
+# Data handling
+pandas
+numpy
+
+# Optional: for future frontend / API calls
+requests
+
+
+# others 
+sentence-transformers
+langchain-huggingface
